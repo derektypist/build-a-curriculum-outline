@@ -4,7 +4,7 @@ Introduction to HTML and coding in general.  Learn about headings and paragraph 
 
 ## Technologies
 
-Uses HTML5.
+Uses HTML.
 
 ## Deployment
 
